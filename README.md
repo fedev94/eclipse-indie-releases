@@ -1,4 +1,4 @@
-# Eclipse Indie Releases
+# Eclipse Render Manager Indie Releases
 
 Public update feed for **Eclipse Render Manager Indie** desktop releases.
 
